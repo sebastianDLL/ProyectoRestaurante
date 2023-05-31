@@ -1,2 +1,2 @@
 # ProyectoRestaurante
-Proyecto realizado por estudiantes de la carrera " Ingenieria de Sistemas " 
+Proyecto realizado por "Nosotros"
